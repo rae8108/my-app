@@ -1,0 +1,53 @@
+Weather.card-body {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.Weather.card {
+  margin-top: 30px;
+  width: 550px;
+  background-color: lightblue;
+  margin: 100px auto;
+  border: 1px solid black;
+}
+
+ul {
+  list-style: none;
+  font-size: 12px;
+  font-weight: 100;
+  position: relative;
+  right: -180px;
+  bottom: 55px;
+}
+
+.Weather.row1 {
+  text-align: center;
+}
+
+.Weather.row2 {
+  text-align: center;
+}
+
+.App.row3 {
+  text-align: center;
+  font-size: x-small;
+  color: #5a6276;
+}
+
+.App.temperature {
+  font-size: 35px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.footer {
+  font-size: 12px;
+}
+
+App small {
+  font-size: 14px;
+  display: block;
+  margin: 100px auto;
+  margin-top: -80px;
+  margin-left: 445px;
+}
